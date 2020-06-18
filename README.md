@@ -14,5 +14,7 @@ Users can then view their posts along with others alike on their timeline. Each 
 You can build a community of users by adding new friends and making comments on other grams! 
 
 
-* Ruby version 
+* Ruby version '2.5.3'
+
+* System dependencies This application uses postgresql as the database for Active Record.
 
